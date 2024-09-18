@@ -1,0 +1,16 @@
+{
+  "name": "hazoor-0-a--t--m",
+  "version": "1.0.0",
+  "description": "simple atm machine",
+  "main": "atm.js",
+  "type":"module",
+  "bin":"atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hazoor Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^11.0.2"
+  }
+}
